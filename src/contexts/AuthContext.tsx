@@ -6,6 +6,7 @@ interface User {
   email: string;
   phone: string;
   emergencyContacts: Array<{
+    id: string;
     name: string;
     phone: string;
     relationship: string;

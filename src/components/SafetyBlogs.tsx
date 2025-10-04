@@ -12,7 +12,8 @@ import {
   Heart,
   Eye,
   Search,
-  Filter
+  Filter,
+  X
 } from 'lucide-react';
 
 interface BlogPost {
